@@ -17,7 +17,7 @@ module.exports = {
       title: 'NodeCG',
       logo: {
         alt: 'NodeCG Logo',
-        src: 'img/logo.png',
+        src: 'img/logo.svg',
       },
       links: [
         {

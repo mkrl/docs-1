@@ -1,0 +1,11 @@
+.logo {
+    transform-origin: 0 0;
+}
+
+.logo__plate {
+    transition: transform 0.2s;
+}
+
+:global(.navbar__brand:hover) .logo__plate {
+    transform: scaleX(1.1) translateX(-2px);
+}
